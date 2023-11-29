@@ -1,0 +1,11 @@
+# Directory
+/config
+/node_modules
+/src
+
+# Flie
+gulpfile.js
+package-lock.json
+package.json
+README.txt
+snnipets.txt
